@@ -5,7 +5,7 @@
       <div class="split left">
         <h3>Mark Anthony Villasanta</h3>
         <p>Mark Anthony Villasanta is currently working as a Part-Time Instructor at Technological University of the Philippines - Quezon,<br>
-          With 10 years of overseas experience as a Sr. IT infrastrature/Support Specialist.<br>
+          With 10 years of overseas experience as a Sr. IT Infrastrature & Support Specialist.<br>
         </p>
       </div>
       <div class="split middle">
